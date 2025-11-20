@@ -6,4 +6,5 @@ CREATE TABLE Users (
 
 INSERT INTO Users (ID, Name, Age) VALUES (1, 'Alice', 25);
 INSERT INTO Users (ID, Name, Age) VALUES (2, 'Bob', 30);
+INSERT INTO Users (ID, Name, Age) VALUES (3, 'Charlie', 22);
 SELECT * FROM Users;
