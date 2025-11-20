@@ -1,0 +1,20 @@
+{
+  "demo": "REST API",
+  "endpoints": [
+    {
+      "url": "/users",
+      "method": "GET",
+      "description": "Get all users"
+    },
+    {
+      "url": "/users",
+      "method": "POST",
+      "description": "Add a new user"
+    },
+    {
+      "url": "/login",
+      "method": "POST",
+      "description": "User login"
+    }
+  ]
+}
